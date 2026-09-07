@@ -23,4 +23,5 @@ int main() {
 
     printf("%d,%d,%d,%d,%d,%d", x, y, *arr, *(arr+1), *(arr+2), *a);
     return 0;
+    //csv= comma separatet values
 }
